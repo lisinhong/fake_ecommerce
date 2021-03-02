@@ -15,7 +15,6 @@
     "@nuxtjs/axios": "^5.12.5",
     "@nuxtjs/firebase": "^7.4.1",
     "core-js": "^3.8.3",
-    "faker": "^5.4.0",
     "firebase": "^8.2.7",
     "nuxt": "^2.14.12"
   },

@@ -1,5 +1,9 @@
 # fake_ecommerce
 
+A fake e-commerce built with Nuxt.js and Tailwind.
+
+Link: https://lisinhong.github.io/fake_ecommerce/
+
 ## Build Setup
 
 ```bash
